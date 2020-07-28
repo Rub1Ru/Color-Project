@@ -74,8 +74,8 @@ React<br />
 Material-UI<br />
 Libraries:<br />**
   *chroma.js (JavaScript library for all kinds of color manipulations) <br />
-  *emoji-mart (One component to pick them all 👊🏼)
-  *react-sortable-hoc (A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️)
-  *react-copy-to-clipboard ()
-  *react-form-validator-core ()
+  *emoji-mart (One component to pick them all 👊🏼) <br />
+  *react-sortable-hoc (A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️) <br />
+  *react-copy-to-clipboard () <br />
+  *react-form-validator-core () <br />
   *react-transition-group ()
