@@ -68,9 +68,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # Color-Project
 
-Project made using: 
-JavaScript
-React
-Material-UI
-Libraries:
-  *chroma.js (JavaScript library for all kinds of color manipulations)
+### Project made using: <br />
+**JavaScript<br />
+React<br />
+Material-UI<br />
+Libraries:<br />**
+  *chroma.js (JavaScript library for all kinds of color manipulations) <br />
