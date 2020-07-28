@@ -72,6 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 **JavaScript<br />
 React<br />
 Material-UI<br />
+JSS <br />
 Libraries:<br />**
   *chroma.js (JavaScript library for all kinds of color manipulations) <br />
   *emoji-mart (One component to pick them all 👊🏼) <br />
